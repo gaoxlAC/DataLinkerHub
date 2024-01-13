@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NengHuan", "NengHuan\NengHuan.csproj", "{6F9175E8-CDDC-4EB1-9325-6EB9096083BF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "智慧能环", "智慧能环\智慧能环.vdproj", "{3A0932A2-67A1-4B35-B03E-678AC76092FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9175E8-CDDC-4EB1-9325-6EB9096083BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9175E8-CDDC-4EB1-9325-6EB9096083BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9175E8-CDDC-4EB1-9325-6EB9096083BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9175E8-CDDC-4EB1-9325-6EB9096083BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0932A2-67A1-4B35-B03E-678AC76092FC}.Debug|Any CPU.ActiveCfg = Debug
+		{3A0932A2-67A1-4B35-B03E-678AC76092FC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2E1947-E8EA-4860-8FEF-049335858EF2}
+	EndGlobalSection
+EndGlobal
